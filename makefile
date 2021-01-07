@@ -1,6 +1,6 @@
-#Alexander Rollison 1001681800
+#Alexander Rollison
 #makefile for C++ Assignment 1
-SRC = Code1_1001681800.cpp
+SRC = Code1.cpp
 OBJ = $(SRC:.cpp=.o)
 EXE = $(SRC:.cpp=.e)
 
